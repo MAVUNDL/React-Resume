@@ -1,0 +1,49 @@
+.body{
+    margin: 0px  80px 0px;
+}
+
+.header{
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding: 20px;
+    font-size: 3em;
+}
+
+.contacts{
+    text-align: center;
+}
+
+.contacts span{
+    margin: 0 5px;
+}
+
+.summary{
+    margin-top: 15px;
+}
+
+.textstyle{
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.textsub{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.spacer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.paragraphstyle{
+    font-family: sans-serif;
+}
+.line{
+    border: 2px solid black;
+}
+.textItalics{
+    font-style: italic;
+    font-family: sans-serif;
+}
