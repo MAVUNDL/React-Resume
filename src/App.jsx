@@ -1,4 +1,5 @@
 import About_Me from "./components/About_Me";
+import "./App.css"
 
 function App() {
   return (

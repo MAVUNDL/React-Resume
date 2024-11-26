@@ -96,7 +96,7 @@ export default function About_Me(){
                         <b>Frameworks: </b> SpringBoot, React, Vaadin Flow
                     </li>
                     <li>
-                        <b>Software: </b> PyCharm, Intellij, VSCode, R Studio, Visual Studio
+                        <b>Software: </b> PyCharm, Intellij, VSCode, R Studio, Visual Studio, Postman
                     </li>
                     <li>
                         <b>Languages: </b> Isizulu, English
