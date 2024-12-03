@@ -20,3 +20,8 @@ Visit the live site here: [skhumbuzo-bembe-resume.netlify.app](https://skhumbuzo
 1. Navigate to the website using the link above.
 2. Browse through the various sections to learn more about me.
 3. Use the contact section to connect with me for collaboration or opportunities.
+
+
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/m48l2bzvab82dl7fsj9m" alt="trackgit-views" />
+</a>
